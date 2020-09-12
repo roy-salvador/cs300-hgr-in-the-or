@@ -1,5 +1,5 @@
 # Network Training
-All network training efforts were performed in a Google Cloud Instance with 24 GB of memory and P100 GPU. Check `requirements.txt` for the listing of needed python libraries and their versions used.
+All network training efforts were performed in a Google Cloud Instance with 24 GB of memory and P100 GPU using [Lasagne](https://lasagne.readthedocs.io/en/latest/). Check `requirements.txt` for the detailed list of needed python libraries and their versions used.
 
 ## Datasets
 We trained and evaluated with the following datasets:
