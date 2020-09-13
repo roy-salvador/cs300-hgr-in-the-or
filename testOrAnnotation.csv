@@ -1,0 +1,15 @@
+frame_start,frame_end,gesture
+76,87,Swiping Up
+124,150,Thumb Up
+162,173,Swiping Up
+190,202,Swiping Down
+225,240,Swiping Left
+245,263,Swiping Right
+295,310,Pushing Two Fingers Away
+320,340,Pulling Two Fingers In
+350,358,Turning Hand Clockwise
+360,370,Turning Hand Counterclockwise
+377,390,Turning Hand Clockwise
+412,429,Zooming In With Two Fingers
+448,457,Zooming Out With Two Fingers
+490,509,Thumb Down
