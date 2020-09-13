@@ -9,8 +9,16 @@ For more details, please check [paper](https://www.academia.edu/44021842/Towards
 ## Requirements
 * Python 3.5
 * [OpenCV](https://opencv.org/opencv-3-2/)
+* [imutils](https://pypi.org/project/imutils/)
 * [Lasagne](https://lasagne.readthedocs.io/en/latest/)
-* [PLotly](https://plotly.com/python/)
+* [Plotly](https://plotly.com/python/)
 
 ## Prerequisite
 Trained network with Jester Dataset named as `network\jester.npz`. For more detailson training the network, check [training](https://github.com/roy-salvador/cs300-hgr-in-the-or/tree/master/training) folder.
+
+## Running Demo Application
+To run the prototype application using your webcam to capture the gestures:
+
+```
+python DemoMain.py
+```  
