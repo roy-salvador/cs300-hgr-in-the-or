@@ -22,3 +22,12 @@ To run the prototype application using your webcam to capture the gestures:
 ```
 python DemoMain.py
 ```  
+
+Alternatively, if we have video recording of the gesture sequence, run the following to visualize how the application responds:
+
+```
+python DemoVideo.py -v [video_file]
+
+# example
+python DemoVideo.py -v testOR.mp4
+```
