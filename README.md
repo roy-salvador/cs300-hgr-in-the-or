@@ -31,3 +31,15 @@ python DemoVideo.py -v [video_file]
 # example
 python DemoVideo.py -v testOR.mp4
 ```
+
+## Measuring Online Recognition Performance
+1. Annotate the video recording with the gestures by frame level. Follow the format of the [sample annotation file](https://github.com/roy-salvador/cs300-hgr-in-the-or/blob/master/testOrAnnotation.csv).
+2. Optionally, specify your preference of the colors of the plot per gesture. Follow the format of the [sample plot colors configuration file](https://github.com/roy-salvador/cs300-hgr-in-the-or/blob/master/plot_colors.config)
+3. Plot the confidence of the network and measure performance against the ground truth. 
+
+```
+python VisualizePerf.py -v [video_file] -a [annotation file]
+
+# example
+python VisualizePerf.py -v testOR.mp4 -a testOrAnnotation.csv
+```
