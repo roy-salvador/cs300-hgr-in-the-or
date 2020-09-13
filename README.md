@@ -14,7 +14,7 @@ For more details, please check [paper](https://www.academia.edu/44021842/Towards
 * [Plotly](https://plotly.com/python/)
 
 ## Prerequisite
-Trained network with Jester Dataset named as `network\jester.npz`. For more detailson training the network, check [training](https://github.com/roy-salvador/cs300-hgr-in-the-or/tree/master/training) folder.
+Trained network with Jester Dataset named as `network\jester.npz`. For more details on training the network, check [training](https://github.com/roy-salvador/cs300-hgr-in-the-or/tree/master/training) folder.
 
 ## Running Demo Application
 To run the prototype application using your webcam to capture the gestures:
