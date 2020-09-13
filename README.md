@@ -5,3 +5,12 @@ A Medical Image Navigation prototype application powered by hand gesture command
 ![Demo Application](https://github.com/roy-salvador/cs300-hgr-in-the-or/blob/master/demo.gif)
 
 For more details, please check [paper](https://www.academia.edu/44021842/Towards_a_Feasible_Hand_Gesture_Recognition_System_as_Sterile_Interface_in_the_Operating_Room_with_3D_Convolutional_Neural_Network) and [YouTube video](https://youtu.be/bR4XhAHzdFk) on how the system would be used.
+
+## Requirements
+* Python 3.5
+* [OpenCV](https://opencv.org/opencv-3-2/)
+* [Lasagne](https://lasagne.readthedocs.io/en/latest/)
+* [PLotly](https://plotly.com/python/)
+
+## Prerequisite
+Trained network with Jester Dataset named as `network\jester.npz`. For more detailson training the network, check [training](https://github.com/roy-salvador/cs300-hgr-in-the-or/tree/master/training) folder.
