@@ -43,3 +43,20 @@ python VisualizePerf.py -v [video_file] -a [annotation file]
 # example
 python VisualizePerf.py -v testOR.mp4 -a testOrAnnotation.csv
 ```
+
+## Citation
+Please cite this [paper](https://doi.org/10.31449/inf.v46i1.3442). 
+```
+@article{salvador2022,
+  title={Towards a Feasible Hand Gesture Recognition System as Sterile Interface in the Operating Room with 3D Convolutional Neural Network},
+  author={Salvador, Roy Amante and Naval Jr, Prospero},
+  journal={Informatica},
+  year=2022,
+  month=3,
+  volume=46,
+  number=1,
+  pages={1-12},      
+  doi={10.31449/inf.v46i1.3442},
+  url={https://www.informatica.si/index.php/informatica/article/view/3442}
+}
+```
