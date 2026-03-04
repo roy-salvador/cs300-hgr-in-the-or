@@ -4,7 +4,7 @@ A Medical Image Navigation prototype application powered by hand gesture command
 
 ![Demo Application](https://github.com/roy-salvador/cs300-hgr-in-the-or/blob/master/demo.gif)
 
-For more details, please check the [published paper](https://doi.org/10.31449/inf.v46i1.3442) and [YouTube video](https://youtu.be/bR4XhAHzdFk) on how the system would be used.
+For more details, please check the [published paper](https://doi.org/10.31449/inf.v46i1.3442) .
 
 ## Requirements
 * Python 3.5
